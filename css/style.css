@@ -2,10 +2,11 @@
 * {
   margin: 0;
   padding: 0;
-  /* if full website has 1 font family  */
-  /* font-family: serif; */
+  outline: 0;
+  box-sizing: border-box;
+  /* font-family: ; */
 }
-a {
+a, a:hover{
   text-decoration: none;
   display: inline-block;
 }
@@ -27,46 +28,31 @@ p {
 /* All Common Css End */
 
 /* Header Part Start  */
-
+#header_part {
+}
 /* Header Part End */
 
 /* Banner Part Start  */
 
 /* Banner Part End */
 
-/* Service Part Start  */
+/* Banner Part Start  */
+/* Banner Part End */
 
-/* Service Part End */
+/* Banner Part Start  */
+/* Banner Part End */
 
-/* App Part Start  */
+/* Banner Part Start  */
+/* Banner Part End */
 
-/* App Part End */
+/* Banner Part Start  */
+/* Banner Part End */
 
-/* App Show Part Start  */
+/* Banner Part Start  */
+/* Banner Part End */
 
-/* App Show Part End */
-
-/* Companies Part Start  */
-
-/* Companies Part End */
-
-/* Trial Part Start  */
-
-/* Trial Part End */
-
-/* Post Part Start  */
-
-/* post right content  */
-
-/* Post Part End */
-
-/* Talk Part Start  */
-
-/* Talk Part End */
-
-/* Footer Part Start  */
-
-/* Footer Part End */
+/* Banner Part Start  */
+/* Banner Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
